@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "641b330bd15ca136d82e2d66"
+  },
+  "role": "admin",
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$GTsmAtvMXCFwrEp1BO4vZ.pngkmg8Rx0dE.y0km/mhmKpIJXXAQ5K",
+  "avatar": {
+    "public_id": "avatars/edxwal58p9ibwqijs6bj",
+    "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1679590475/avatars/edxwal58p9ibwqijs6bj.jpg"
+  },
+  "createdAt": {
+    "$date": "2023-03-22T16:55:39.137Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641c84f5c7798c0b689cabe8"
+  },
+  "role": "user",
+  "name": "User",
+  "email": "user@gmail.com",
+  "password": "$2a$10$EohhZhzy4vhJG9UJlSiwte3wijHur2myonDA9ak7d8X17q7e177bK",
+  "avatar": {
+    "public_id": "avatars/juijrcj71xcghxifubuv",
+    "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1679590644/avatars/juijrcj71xcghxifubuv.jpg"
+  },
+  "createdAt": {
+    "$date": "2023-03-23T16:57:25.334Z"
+  },
+  "__v": 0
+}]

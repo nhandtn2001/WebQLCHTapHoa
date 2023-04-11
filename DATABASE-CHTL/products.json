@@ -1,0 +1,257 @@
+[{
+  "_id": {
+    "$oid": "641c8183c7798c0b689cabdd"
+  },
+  "price": 23000,
+  "ratings": 4,
+  "stock": 86,
+  "numOfReviews": 1,
+  "name": "Khăn ướt Families",
+  "description": "Là loại khăn ướt được làm từ chất liệu vải không dệt cao cấp có tính đàn hồi cao, đảm bảo độ dai và mềm mịn khi sử dụng trên da đến từ thương hiệu khăn ướt Families. Khăn ướt Families Big Size hương tự nhiên gói 80 miếng vừa làm sạch da vừa duy trì dưỡng ẩm cho da",
+  "category": "Chăm sóc cá nhân",
+  "seller": "Nhan",
+  "images": [
+    {
+      "_id": {
+        "$oid": "641c8183c7798c0b689cabde"
+      },
+      "public_id": "products/gkdcmyjgu9djryywalj3",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1679589762/products/gkdcmyjgu9djryywalj3.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "641b330bd15ca136d82e2d66"
+  },
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "641dc85411e8322fa0cd2862"
+      },
+      "user": {
+        "$oid": "641c84f5c7798c0b689cabe8"
+      },
+      "name": "User",
+      "rating": 4,
+      "comment": "ổn"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-23T16:42:43.483Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "641c8265c7798c0b689cabdf"
+  },
+  "price": 120000,
+  "ratings": 5,
+  "stock": 30,
+  "numOfReviews": 1,
+  "name": "Đùi bò nhập khẩu đông lạnh 500gr",
+  "description": "Thịt đùi có vị ngon tương tự phần mông bò và thường được cắt thành lát dày như bít-tết để nướng. Đùi bò nhập khẩu đông lạnh được cấp đông từ thịt bò tươi ngon là sản phẩm có xuất xứ rõ ràng nên đảm bảo an toàn thực phẩm và giàu chất dinh dưỡng\r\nƯu điểm khi mua đùi bò nhập khẩu tại Bách hoá XANH\r\nThịt đùi bò nhập khẩu (ở một số nơi gọi là thịt mông ngoài) là phần thịt mông hay đùi sau của bò, ưu điểm của phần thịt này là nhiều nạc, ít mỡ, thịt mềm.\r\nThịt đùi bò đông lạnh với phương pháp làm đông lạnh cấp tốc từ những miếng thịt bò nhập khẩu từ Úc, Argentina, Canada, Nga (tuỳ theo từng lô nhập hàng)... tươi ngon trong thời gian nhanh nhất, điều này giúp các dinh dưỡng thất thoát sẽ ít hơn, chất lượng sẽ được giữ không kém gì so với thịt bò tươi.\r\nĐặt giao hàng nhanh\r\nGiá trị dinh dưỡng của đùi bò nhập khẩu\r\nTrong thịt đùi bò chứa nhiều vitamin B2, vitamin B5, vitamin B6, các khoáng chất như sắt, kẽm, đồng,... rất dinh dưỡng.\r\nTrong 100g thịt đùi bò có 250 Kcal.\r\nTác dụng của đùi bò đối với sức khỏe\r\nTăng cường sức khỏe xương khớp\r\nCung cấp dinh dưỡng cho cơ thể\r\nTăng cường sức đề kháng cho cơ thể\r\nTăng cường hệ miễn dịch\r\nGiúp người đau bổ sung dưỡng chất\r\n…\r\nCách sơ chế thịt đùi bò\r\nThịt đùi bò cơ bản đã được làm sạch, đóng khay, bạn chỉ cần rửa sạch lại và thái thành miếng vừa ăn, sau đó chế biến thành các món ăn yêu thích.\r\nĐùi bò nhập khẩu đông lạnh 500gr 0\r\nCác món ăn ngon từ thịt đùi bò\r\nĐùi bò là phần thịt rất chắc, vì thể để món ăn có độ ngon nhất định và phần thịt mềm dễ ăn thì nên nấu trong nồi hầm hoặc nồi áp suất.\r\nBò sốt vang\r\nThịt bò hầm rau củ\r\nLẩu bò\r\n...\r\nCách bảo quản thịt đùi bò tươi ngon\r\nThịt đùi bò nên được bảo quản trong ngăn mát tủ lạnh. Nếu đã rã đông thì không nên trữ đông lại.\r\nLưu ý: Sản phẩm nhận được có thể khác với hình ảnh về màu sắc và số lượng nhưng vẫn đảm bảo về mặt khối lượng và chất lượng.",
+  "category": "Thịt-Trứng-Hải sản",
+  "seller": "TanhGL",
+  "images": [
+    {
+      "_id": {
+        "$oid": "641c8265c7798c0b689cabe0"
+      },
+      "public_id": "products/sp4rpvasdijkzpwkdftm",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1679589987/products/sp4rpvasdijkzpwkdftm.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "641b330bd15ca136d82e2d66"
+  },
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "641c8290c7798c0b689cabe1"
+      },
+      "user": {
+        "$oid": "641b330bd15ca136d82e2d66"
+      },
+      "name": "11",
+      "rating": 5,
+      "comment": "Thịt tươi ngon"
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-03-23T16:46:29.240Z"
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "641c8329c7798c0b689cabe2"
+  },
+  "price": 27000,
+  "ratings": 0,
+  "stock": 12,
+  "numOfReviews": 0,
+  "name": "Trứng gà Happy Egg hộp 10 quả",
+  "description": "Hộp 10 trứng gà Happy Egg được đóng gói và bảo quản theo những tiêu chuẩn nghiêm ngặt về vệ sinh và an toàn thực phẩm, đảm bảo về chất lượng của thực phẩm. Trứng gà to tròn, đều. Trứng gà Happy Egg có thể luộc chín chế biến thành một số món ăn khác như: thịt kho trứng, cơm chiên trứng,...",
+  "category": "Thịt-Trứng-Hải sản",
+  "seller": "Nhan",
+  "images": [
+    {
+      "_id": {
+        "$oid": "641c8329c7798c0b689cabe3"
+      },
+      "public_id": "products/le8alyhnuqrxfmkvb6vs",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1679590184/products/le8alyhnuqrxfmkvb6vs.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "641b330bd15ca136d82e2d66"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-03-23T16:49:45.432Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641c83a1c7798c0b689cabe4"
+  },
+  "price": 120000,
+  "ratings": 0,
+  "stock": 3000,
+  "numOfReviews": 0,
+  "name": "Nước tăng lực Sting Gold 320ml",
+  "description": "Với thành phần tự nhiên kết hợp với hương vị nhân sâm tạo nên sự kết hợp độc đáo với mùi vị thơm ngon, sảng khoái. Sản phẩm giúp cơ thể bù đắp nước, bổ sung năng lượng, vitamin C và E, giúp xua tan cơn khát và cảm giác mệt mỏi, cho bạn cảm giác cuộn trào hứng khởi",
+  "category": "Đồ uống - Giải khát",
+  "seller": "Nhan",
+  "images": [
+    {
+      "_id": {
+        "$oid": "641c83a1c7798c0b689cabe5"
+      },
+      "public_id": "products/vwubbzyt0nj1tdkgwpir",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1679590304/products/vwubbzyt0nj1tdkgwpir.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "641b330bd15ca136d82e2d66"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-03-23T16:51:45.646Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641c8404c7798c0b689cabe6"
+  },
+  "price": 420000,
+  "ratings": 0,
+  "stock": 23,
+  "numOfReviews": 0,
+  "name": "Thùng 24 lon bia Tiger 330ml",
+  "description": "Sản phẩm còn được gọi là Tiger nâu được lên men tự nhiên từ các thành phần chính nước, đại mạch, ngũ cốc và hoa bia. Tạo nên hương vị độc đáo và rất riêng của bia Tiger bằng vị đậm đà kết hợp với vị ngọt tự nhiên của lúa mạch. Thùng 24 lon bia Tiger nâu 330ml chính hãng chất lượng thơm ngon",
+  "category": "Đồ uống - Giải khát",
+  "seller": "Nhan",
+  "images": [
+    {
+      "_id": {
+        "$oid": "641c8404c7798c0b689cabe7"
+      },
+      "public_id": "products/bodkdi2tz3wxe54asfmr",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1679590402/products/bodkdi2tz3wxe54asfmr.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "641b330bd15ca136d82e2d66"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-03-23T16:53:24.199Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641dc6ef827f7832acbea655"
+  },
+  "price": 4000,
+  "ratings": 0,
+  "stock": 12,
+  "numOfReviews": 0,
+  "name": "Hành lá",
+  "description": "hành lá",
+  "category": "Rau-Củ-Trái cây",
+  "seller": "Nhan",
+  "images": [
+    {
+      "_id": {
+        "$oid": "641dc6ef827f7832acbea656"
+      },
+      "public_id": "products/akkeqfqpahe1xclqavmo",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1679673069/products/akkeqfqpahe1xclqavmo.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "641b330bd15ca136d82e2d66"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-03-24T15:51:11.586Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641dc731827f7832acbea657"
+  },
+  "price": 2000,
+  "ratings": 0,
+  "stock": 12,
+  "numOfReviews": 0,
+  "name": "Hành lá",
+  "description": "hành lá tốt sức khỏe",
+  "category": "Rau-Củ-Trái cây",
+  "seller": "Nhan",
+  "images": [
+    {
+      "_id": {
+        "$oid": "641dc731827f7832acbea658"
+      },
+      "public_id": "products/lkdfqjkhzsxolpallwpw",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1679673135/products/lkdfqjkhzsxolpallwpw.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "641b330bd15ca136d82e2d66"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-03-24T15:52:17.506Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "641dc82711e8322fa0cd2860"
+  },
+  "price": 20000,
+  "ratings": 0,
+  "stock": 12,
+  "numOfReviews": 0,
+  "name": "thịt",
+  "description": "thit",
+  "category": "Thực phẩm chế biến",
+  "seller": "Nhan",
+  "images": [
+    {
+      "_id": {
+        "$oid": "641dc82711e8322fa0cd2861"
+      },
+      "public_id": "products/ljmpjqxubv5otktvdphn",
+      "url": "https://res.cloudinary.com/crazybeer28/image/upload/v1679673382/products/ljmpjqxubv5otktvdphn.jpg"
+    }
+  ],
+  "user": {
+    "$oid": "641b330bd15ca136d82e2d66"
+  },
+  "reviews": [],
+  "createdAt": {
+    "$date": "2023-03-24T15:56:23.734Z"
+  },
+  "__v": 0
+}]
