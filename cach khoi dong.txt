@@ -1,0 +1,2 @@
+- npm run prod
+- cd frontend -> npm start
